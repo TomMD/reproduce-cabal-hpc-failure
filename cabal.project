@@ -1,0 +1,9 @@
+packages:
+    my-pkg,
+    a,
+    b
+
+source-repository-package
+  type: git
+  location: https://github.com/TomMD/hamming-trie
+  tag: 8759c96e7571cc089cb312774c5f67101235f760
